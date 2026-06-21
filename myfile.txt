@@ -1,1 +1,2 @@
 This is a test file for the GitHub lab task.
+File name corrected successfully
